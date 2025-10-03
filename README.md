@@ -21,4 +21,4 @@ When the button in the Sample Data View is pressed, the application will async r
 Using the Eclipse EventBroker, we can emit this data from one view to another. I used dependency injection to achieve this.
 The EventBroker is injected into the emitter part and a handler method is injected into the receiving part.
 The data is parsed and pretty printed with a simple custom helper method.
-I chose not to use a JSON parsing library, keeping the applciation minimal. This results in Json string being the format of the data however.
+I chose not to use a JSON parsing library, keeping the application minimal. This results in Json string being the format of the data however.
