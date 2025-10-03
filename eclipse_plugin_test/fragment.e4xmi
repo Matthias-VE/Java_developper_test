@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmi:id="_BxaXACerEeWxCPrV0pAZQQ">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_EI7oACerEeWxCPrV0pAZQQ" featurename="descriptors" parentElementId="xpath:/">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_KMklcCerEeWxCPrV0pAZQQ" elementId="test.partDescFragment.ASampleE4View" label="Sample Data" iconURI="platform:/plugin/eclipse_plugin_test/icons/Sample.png" tooltip="" category="Sample Category" closeable="true" contributionURI="bundleclass://eclipse_plugin_test/eclipse_plugin_test.parts.views.SampleDataView">
+      <tags>View</tags>
+      <tags>categoryTag:Sample Category</tags>
+    </elements>
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_c0jDUJ-UEfCcgfXgkGSEHg" elementId="test.partDescFragment.ASampleResultsView" label="Results" iconURI="platform:/plugin/eclipse_plugin_test/icons/Sample.png" category="Sample Category" closeable="true" contributionURI="bundleclass://eclipse_plugin_test/eclipse_plugin_test.parts.views.ResultsView"/>
+  </fragments>
+</fragment:ModelFragments>
