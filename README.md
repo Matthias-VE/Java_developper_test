@@ -12,7 +12,7 @@ Returns a list of issues.
 Run by opening the code in Eclipse and right click -> Run as ... -> Eclipse Application.
 A new IDE window will open. Select Window -> Show View -> Other... -> Sample Category -> Sample Data and Result.
 Now you should have the windows open that you selected in the above step. 
-The sample data window will contain a button. When Pressed, the Result View is updated with data from the API.
+The Sample Data Window will contain a button. When Pressed, the Result Window is updated with data from the API.
 
 
 ## Design Notes
