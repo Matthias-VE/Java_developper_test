@@ -6,7 +6,7 @@ Run with `./gradlew bootRun` in the mock-api directory.
 Local api server will start on port 8080
 
 ### GET /api/issues
-Returns a list of issues.
+Returns a mock list of issues.
 
 ## Eclipse E4 plugin
 Run by opening the code in Eclipse and right click -> Run as ... -> Eclipse Application.
